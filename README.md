@@ -54,6 +54,5 @@ A interface é baseada no terminal e permite que o usuário execute essas opera�
 
 ## 📷 Imagens do Projeto
 
-- ![Menu Principal](https://github.com/ItaloRochaj/clinic-center/blob/main/images/Captura%20de%20tela%20de%202024-09-15%2017-18-03.png)
-- ![Inicializado](https://github.com/ItaloRochaj/clinic-center/blob/main/images/Captura%20de%20tela%20de%202024-09-15%2017-18-16.png)
-- ![Execução do Código](https://github.com/ItaloRochaj/clinic-center/blob/main/images/Captura%20de%20tela%20de%202024-09-15%2017-20-43.png)
+- ![Projeto](https://github.com/ItaloRochaj/banco-bite/blob/main/Captura%20de%20tela%20de%202024-09-15%2017-18-16.png)
+- ![inicializado](https://github.com/ItaloRochaj/banco-bite/blob/main/Captura%20de%20tela%20de%202024-09-15%2017-18-03.png)
